@@ -76,7 +76,19 @@ Sigue estos pasos para descargar y ejecutar el proyecto:
 - **Buscar libro por idioma**: Permite buscar libros según el idioma (inglés, portugués, español y francés).
 - **Salir**: Finaliza la aplicación.
 
-## Te invito a mirar su funcionamiento en el siguiente video:
+  
+![menu](https://github.com/user-attachments/assets/b6764cf9-8975-4745-8b8e-86c21d4f9f8e)
 
+![listado libros](https://github.com/user-attachments/assets/d941cdcd-a027-4436-9303-89f63d2917f2)
+
+![listado autor](https://github.com/user-attachments/assets/38822e2b-ff8f-47b7-a7b6-2d8a60a7da69)
+
+![autore vivos](https://github.com/user-attachments/assets/a08aee9e-a435-4f45-9d50-54a176b9cee2)
+
+![libros en ingles](https://github.com/user-attachments/assets/d8122d3a-bc49-4824-b720-45b17eb1806a)
+
+
+## Te invito a mirar su funcionamiento en el siguiente video:
+https://www.youtube.com/watch?v=EM2YmJTNYgA
 
 Realizado por Noelia Orsini para Alura Latam
