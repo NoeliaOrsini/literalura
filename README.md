@@ -1,13 +1,8 @@
 # Literalura - Catálogo de Libros
-Este proyecto consiste en un catálogo de libros, el **Literalura** utilizando la API “Gutendex” para realizar solicitudes de libros, manipular datos JSON, guardarlos en una base de datos, filtrar y mostrar los libros y autores de interés.
+Este proyecto consiste en un catálogo de libros, **Literalura** utilizando la API “Gutendex” para realizar solicitudes de libros, manipular datos JSON, guardarlos en una base de datos, filtrar y mostrar los libros y autores de interés.
 
 ### Menú de la Aplicación
-1. Buscar libro por título
-2. Listado de libros registrados
-3. Listado de autores registrados
-4. Buscar autores vivos en un determinado año
-5. Buscar libro por idioma
-0. Salir
+![menu](https://github.com/user-attachments/assets/b6764cf9-8975-4745-8b8e-86c21d4f9f8e)
 
 ## Manejo de Excepciones
 El programa incluye un robusto manejo de excepciones para garantizar que las entradas inválidas no detengan su funcionamiento:
@@ -75,10 +70,7 @@ Sigue estos pasos para descargar y ejecutar el proyecto:
 - **Buscar autores vivos en un año específico**: Filtra autores que estaban vivos en el año especificado.
 - **Buscar libro por idioma**: Permite buscar libros según el idioma (inglés, portugués, español y francés).
 - **Salir**: Finaliza la aplicación.
-
   
-![menu](https://github.com/user-attachments/assets/b6764cf9-8975-4745-8b8e-86c21d4f9f8e)
-
 ![listado libros](https://github.com/user-attachments/assets/d941cdcd-a027-4436-9303-89f63d2917f2)
 
 ![listado autor](https://github.com/user-attachments/assets/38822e2b-ff8f-47b7-a7b6-2d8a60a7da69)
